@@ -1,12 +1,12 @@
-![MasterHead](https://github.com/onurmelikoglu/onurmelikoglu/assets/60974044/e0321f30-c536-4d7c-b496-bc694f47ab9a)
+![MasterHead](https://images.squarespace-cdn.com/content/v1/64c911ae7388967e1679a000/4588e0ef-db34-4a80-895a-1fb0eb2e8e77/8e8e8bf3-9f3c-4b5b-9045-5ebb945e8aea.png)
 <h1 align="center">Hi 👋, I'm Berkay Çelik</h1>
 <h3 align="center">A passionate Full-Stack developer from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.webp">
 
 
-- 🔭 I’m currently working on an **MFA Project**
+- 🔭 I’m currently working on **SecTrail MFA Project**
 
-- 🌱 I’m currently learning **Flutter And Laravel**
+- 🌱 I’m currently learning **Flutter And Advanced Laravel**
 
 - 💬 Ask me about **Laravel, Linux**
 
@@ -14,15 +14,18 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/onurmelikoglu](https://www.linkedin.com/in/berkay-çelik-724b17157/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkaycel" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/berkay-çelik-724b17157/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkaycel" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/berkaycel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="drshelby" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
-  </a> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="laravel" width="40" height="40"/> 
+  </a>
+  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png", alt="vscode" width="40" height="40" />
+  </a>
    <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
   </a>
@@ -40,6 +43,12 @@
   </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.tutorialspoint.com/plsql/index.htm" target="_blank" rel="noreferrer"> 
+    <img src="https://www.svgrepo.com/show/373980/plsql.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.oracle.com/database/technologies/appdev/sql.html" target="_blank" rel="noreferrer"> 
+    <img src="https://w7.pngwing.com/pngs/121/681/png-transparent-amazon-relational-database-service-oracle-corporation-international-conference-on-functional-programming-oracle-database-oracle-policy-automation-others-text-logo-sql.png" alt="mysql" width="40" height="40"/> 
   </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
@@ -70,8 +79,5 @@
   </a> 
   <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> 
-  </a>
-  <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> 
-  </a>  
+  </a> 
 </p>
