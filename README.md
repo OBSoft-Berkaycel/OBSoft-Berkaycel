@@ -4,11 +4,11 @@
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.webp">
 
 
-- 🔭 I’m currently working on **SecTrail MFA Project**
+- 🔭 I’m currently working on **WebCreator Project** of mine.
 
-- 🌱 I’m currently learning **Flutter And Advanced Laravel**
+- 🌱 I’m currently learning **Flutter And Advanced Laravel**.
 
-- 💬 Ask me about **Laravel, Linux**
+- 💬 Ask me about **Laravel, PHP and Linux**
 
 - 📫 How to reach me **berkaycel@gmail.com**
 
