@@ -23,11 +23,17 @@
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="laravel" width="40" height="40"/> 
   </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+  </a>
+  <a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux" target="_blank" rel="noreferrer"> 
+    <img src="https://p7.hiclipart.com/preview/37/1022/451/red-hat-enterprise-linux-red-hat-linux-fedora-linux.jpg" alt="redhat" width="40" height="40"/> 
+  </a>
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png", alt="vscode" width="40" height="40" />
-  </a>
-   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+  </a> 
+  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
+    <img src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png", alt="vscode" width="40" height="40" />
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
