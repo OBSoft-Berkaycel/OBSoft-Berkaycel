@@ -87,3 +87,11 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> 
   </a> 
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=obsoft-berkaycel&label=Profile%20views&color=0e75b6&style=flat" alt="obsoft-berkaycel" /> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=obsoft-berkaycel&show_icons=true&locale=en&layout=compact" alt="obsoft-berkaycel" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=obsoft-berkaycel&show_icons=true&locale=en" alt="obsoft-berkaycel" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=obsoft-berkaycel&" alt="obsoft-berkaycel" /></p>
