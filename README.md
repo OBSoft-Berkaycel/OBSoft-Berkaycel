@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **WebCreator Project** of mine.
 
-- 🌱 I’m currently learning **Flutter And Advanced Laravel**.
+- 🌱 I’m currently learning **Flutter And Go Lang**.
 
 - 💬 Ask me about **Laravel, PHP and Linux**
 
