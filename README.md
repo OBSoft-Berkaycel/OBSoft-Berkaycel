@@ -26,6 +26,9 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
   </a>
+  <a href="https://go.dev/" target="_blank" rel="noreferrer"> 
+      <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="golang" width="40" height="40"/> 
+  </a>
   <a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux" target="_blank" rel="noreferrer"> 
     <img src="https://p7.hiclipart.com/preview/37/1022/451/red-hat-enterprise-linux-red-hat-linux-fedora-linux.jpg" alt="redhat" width="40" height="40"/> 
   </a>
@@ -88,10 +91,10 @@
   </a> 
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=obsoft-berkaycel&label=Profile%20views&color=0e75b6&style=flat" alt="obsoft-berkaycel" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Berkaycel&label=Profile%20views&color=0e75b6&style=flat" alt="Berkaycel" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=obsoft-berkaycel&show_icons=true&locale=en&layout=compact" alt="obsoft-berkaycel" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Berkaycel&show_icons=true&locale=en&layout=compact" alt="Berkaycel" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=obsoft-berkaycel&show_icons=true&locale=en" alt="obsoft-berkaycel" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Berkaycel&show_icons=true&locale=en" alt="Berkaycel" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=obsoft-berkaycel&" alt="obsoft-berkaycel" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Berkaycel&" alt="Berkaycel" /></p>
